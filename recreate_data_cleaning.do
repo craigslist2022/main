@@ -1,11 +1,11 @@
 *** Recreate Clean Data Sets ***
-/* Code to reproducte the main datasets used in the paper "Did Craigslist's Erotic Services Reduce Female Homicide and Rape?" by Scott Cunningham, Gregory DeAngelo, and John Tripp. */
+/* Code to reproducte the main datasets used in the paper, "Did Craigslist's Erotic Services Reduce Female Homicide and Rape?" by Scott Cunningham, Gregory DeAngelo, and John Tripp.
 
-/* To recreate the main figures and tables from the paper, please execute the recreate_main_tables.do after executing this do file. */
+To recreate the main figures and tables from the paper, please execute the recreate_main_tables.do after executing this do file. 
 
-/* Make sure to have installed the following commands: sg30, csdid, reghdfe, drdid, missings, event_plot, estout, avar, ftools, github, eventstudyinteract, coefplott, moremata, twowayfeweights, carryforward, outreg2, stutex, cmogram, ddtiming, _gwtmean, and fect (from https://raw.githubusercontent.com/xuyiqing/fect_stata/master/). */
+Ensure to have installed the following commands: sg30, csdid, reghdfe, drdid, missings, event_plot, estout, avar, ftools, github, eventstudyinteract, coefplott, moremata, twowayfeweights, carryforward, outreg2, stutex, cmogram, ddtiming, _gwtmean, and fect (from https://raw.githubusercontent.com/xuyiqing/fect_stata/master/).
 
-/* You will need to indicate the directory where the data are saved. If you encounter an error in the code that is not resolved by installing an additional command, please reach out via github and the authors will work to address the concern. */
+You will need to indicate the directory where the data are saved. If you encounter an error in the code that is not resolved by installing an additional command, please reach out via github and the authors will work to address the concern. */
 
 cd ""
 
