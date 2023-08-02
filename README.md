@@ -4,7 +4,7 @@ This Github Repository contains the scripts and data necessary to replicate all 
 Media Coverage: [Huffington Post](https://www.huffpost.com/entry/craigslists-erotic-services-site-appears-to-have-reduced_b_59df8778e4b0cee7b9549e66) , [ThinkProgress](https://thinkprogress.org/craigslist-erotic-services-platform-3eab46092717/) , [Reply All](https://gimletmedia.com/shows/reply-all/o2ho97/119-no-more-safe-harbor#episode-player)
 
 ## Recreation Documents
-Two scripts are needed to replicate all of the author's findings. Begin with **recreate_data_cleaning.do** to create "cleaned" data sets and follow along with the author's data decisions. Then run **recreate_main_tables.do** to recreate each figure and table from the main paper as well as the appendiez. Note: **recreate_main_tables.do** can only be run after these "cleaned" data sets are created.  
+Two scripts are needed to replicate all of the author's findings. Begin with **recreate_data_cleaning.do** to create "cleaned" data sets and follow along with the author's data decisions. Files **ucr_crime_raw.dta.zip** and **ter_data.dta.zip** will need to be decompressed before this script can run. After creating "cleaned" data, run **recreate_main_tables.do** to recreate each figure and table from the main paper as well as the appendices. Note: **recreate_main_tables.do** can only be run after these "cleaned" data sets are created.  
 
 Neither script installs the STATA packages necessary to run all of the commands listed. The following commands are necessary:
 ```
