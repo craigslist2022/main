@@ -6,7 +6,7 @@ Media Coverage: [Huffington Post](https://www.huffpost.com/entry/craigslists-ero
 ## Recreation Documents
 Two scripts are needed to replicate all of the author's findings. Begin with **recreate_data_cleaning.do** to create "cleaned" data sets and follow along with the author's data decisions. The file **ucr_crime_raw.dta.zip** will need to be decompressed before this script can run. The authors omitted a cleaning script for data collected from The Erotic Review, as the set included sensitive and potentially identifying data. A de-identified dataset has been included for recreation purposes.
 
-After creating "cleaned" data, run **recreate_main_tables.do** to recreate each figure and table from the main paper as well as the appendices. The file **ter_data.dta.zip** will need to be decompressed before this script can run. **recreate_main_tables.do** can only be run after these "cleaned" data sets are created. 
+After creating "cleaned" data, run **recreate_main_tables.do** to recreate each figure and table from the main paper as well as the appendices. The file **ter_clean.dta.zip** will need to be decompressed before this script can run. **recreate_main_tables.do** can only be run after these "cleaned" data sets are created. 
 
 Neither script installs the STATA packages necessary to run all of the commands listed. The following commands are necessary:
 ```
