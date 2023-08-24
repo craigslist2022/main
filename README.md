@@ -1,5 +1,5 @@
 # "Did Craigslist’s Erotic Services Reduce Female Homicide and Rape?" 
-This Github Repository contains the scripts and data necessary to replicate all tables, figures, and appendicies from the forthcoming paper in the Journal of Human Resources, written by [Scott Cunningham](https://www.scunning.com/index.html), with [Gregory DeAngelo](http://gregoryjdeangelo.com) and [John Tripp](https://www.clemson.edu/business/about/profiles/JFTRIPP).
+This Github Repository contains the scripts and data necessary to replicate all tables, figures, and appendicies for this paper, published in [Vol. 58, Issue 4 of the Journal of Human Resources](https://jhr.uwpress.org/). It was written by [Scott Cunningham](https://www.scunning.com/index.html), with [Gregory DeAngelo](http://gregoryjdeangelo.com) and [John Tripp](https://www.clemson.edu/business/about/profiles/JFTRIPP).
 
 Media Coverage: [Huffington Post](https://www.huffpost.com/entry/craigslists-erotic-services-site-appears-to-have-reduced_b_59df8778e4b0cee7b9549e66) , [ThinkProgress](https://thinkprogress.org/craigslist-erotic-services-platform-3eab46092717/) , [Reply All](https://gimletmedia.com/shows/reply-all/o2ho97/119-no-more-safe-harbor#episode-player)
 
